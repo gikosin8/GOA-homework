@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(163, 0, 0);
+  }
+  
+  p {
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+  }
+
+  h4 {
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
+  a {
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+  }
