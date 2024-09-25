@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(56, 11, 11);
+}
+h1 {
+    position: absolute;
+    top: 350px;
+    left: 630px;
+    color: aqua;
+}
+img {
+    position: absolute;
+    top: 320px;
+    left:370px;
+    
+}
+h2 {
+    position: absolute;
+    top: 50px;
+    left: 1030px;
+    color: rgb(9, 255, 255);
+}
+
+section {
+ position: absolute;
+ top: 580px;
+ left: -65px;
+}
+section2 {
+    position: absolute;
+    top: 580px;
+    left: -1px;
+   }
+
+section1 {
+    position: absolute;
+    top: 580px;
+    left: -112px;
+   }

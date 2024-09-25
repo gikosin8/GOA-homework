@@ -1,0 +1,52 @@
+.box {
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.aZWMw6D96KxJtW9KmK2GBQHaFS&pid=Api&P=0&h=220');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150px;
+    padding: 10px;
+    border: 1px solid;
+    background-position: center center;
+    
+    
+}
+
+/*  background-repeat:
+ 1. repeat - სურათი გამეორდება x და y ღერძზე
+ 2. repeat -x - სურათი გამეორდება x ღერძზე
+ 2. repeat -y - სურათ გამეორდება y ღერზხე
+
+/* div {
+    width: 350px;
+    height: 350px;
+    background-color: steelblue;
+   border-width: 4px;
+    border-style: solid;
+    border-color: aquamarine;
+    border-radius: 29px; */
+   
+   /*  border: 5px solid aquamarine;*/
+   /* border-top: 5px solid black;
+   border-right: 10px dotted blue;
+   border-left: 30px double violet;
+   border-bottom: 20px groove red;
+   border-left: 30px double orangered; */
+
+
+/*
+   border :
+
+   1. border-width
+   2. border-style
+   3. border-color
+
+   */
+
+   
+   ul{
+    color: crimson;
+    font-family: cursive;
+    /* list-style-type: circle; */
+    list-style-image : url("image.jpg");
+    border-radius: 50%;
+   
+   }

@@ -1,0 +1,45 @@
+h1 {
+    text-decoration: overline;
+    text-align: right;
+}
+
+span{
+    color: rgb(255, 15, 15);
+}
+h2{
+    color: brown;
+    /*
+    1. first valeu - ცვლის ჩრდილის
+    ჰორიზონტალური ხაზზე
+    
+    2. second valeu - ცვლის ჩრდილის პოზიციას 
+    ვერტიკალურ ხაზზე
+
+    3.third value - ჩრდილს მიანიჭოს ბინდი
+
+    4. fourth valeu - ჩრდილის მინიჯოს ბინდი
+    */
+  text-shadow: 0px 20px 5px rgb(126, 7, 7);
+}
+h3 {
+    line-height: 3;
+}
+div {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(0, 225, 255);
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(134, 15, 15);
+
+    border: 10px soild darkblue;
+    border-radius: 10%;
+}
+
+div h1 {
+    color:rgb(47, 0, 255);
+    font-size: 2em;
+    text-align: center;
+
+
+}
