@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(37, 36, 36);
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 100px;
+    background: #444345;
+}
+.B a {
+    
+    font-size: 1.1em;
+    color: #fdfdfd;
+    text-decoration: none;
+    margin-left: 80px; 
+}
+
+main {
+
+    
+    width: 400px;
+    height: 700px;
+    background-color: rgb(71, 71, 71);
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    
+}
+
+.a {
+    
+    border-radius: 8px;
+}
