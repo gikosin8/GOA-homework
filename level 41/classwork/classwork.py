@@ -7,6 +7,6 @@ print(info)
 info = f'Hello my name is {name} and my last name is {last_name}'
 print(info)
 
-about_me - []
+#about_me - []
 #split
 #join
